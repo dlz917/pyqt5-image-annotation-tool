@@ -1,7 +1,8 @@
 
+
 # ENG 
 # Graphical Interface for Image Annotation 
-
+Project completed in 2 months as an end-of-degree internship 
 ## IMPORTANT TO READ
 
 Before you start using this graphical interface, there are several important points to note:
@@ -38,7 +39,7 @@ This project involves creating a Graphical User Interface (GUI) using PyQt5 to d
 
 # FR 
 # Interface Graphique pour l'Annotation d'Images
-
+Projet réalisé en 2 mois comme stage de fin de licence
 ## IMPORTANT À LIRE
 
 Avant de commencer à utiliser cette interface graphique, il y a plusieurs points importants à noter :
